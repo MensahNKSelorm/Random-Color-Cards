@@ -31,4 +31,11 @@ div.card {
     height: 25rem;
     background-color: white;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 1.5rem;
+    cursor: pointer;
 }
